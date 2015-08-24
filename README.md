@@ -1,2 +1,0 @@
-# gittest
-Only for test.
